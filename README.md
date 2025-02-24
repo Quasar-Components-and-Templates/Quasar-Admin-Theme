@@ -31,10 +31,13 @@ This project is built as a reusable admin dashboard UI template for future proje
 - **UI:** [Quasar Framework](https://quasar.dev) ⚡
 
 
-![Quasar-Admin-Template-02-03-dark](https://github.com/user-attachments/assets/c2648c6b-5947-49cd-8f0c-4fea02e4aedf)
-![Quasar-Admin-Template-02-01-dark](https://github.com/user-attachments/assets/c3b5408c-acae-4224-ac21-1537d483028b)
-![Quasar-Admin-Template-02-04](https://github.com/user-attachments/assets/fa4472b5-b400-47d2-be20-ab9b0d89553e)
-![Quasar-Admin-Template-02-04-dark](https://github.com/user-attachments/assets/f088fed1-6e7d-4347-88a5-dcc99e77dd4c)
-![Admin-UI-QuasarUI-02-dark](https://github.com/user-attachments/assets/51643f0a-ef79-4d56-b223-6c3eac5ca8c7)
-![Quasar-Admin-Template-02-03](https://github.com/user-attachments/assets/82192761-c443-4536-8bca-61c41ee2c152)
-![Admin-UI-QuasarUI-02](https://github.com/user-attachments/assets/50ab6d90-b97e-40c9-81a7-87a5d0bcb8b3)
+
+![Quasar-Admin-Template-02-06](https://github.com/user-attachments/assets/e04e57da-91ca-47d2-a5d5-17e37415edb6)
+![Quasar-Admin-Template-02-05](https://github.com/user-attachments/assets/6508da7b-b3bc-4b9b-b8ad-d8012e4105d9)
+![Quasar-Admin-Template-02-02](https://github.com/user-attachments/assets/99ab3236-8e8c-4dbf-9e81-c3b7789ba5b8)
+![Quasar-Admin-Template-02-02-dark](https://github.com/user-attachments/assets/ce94f947-1e85-49b6-9748-33b73de27475)
+![Quasar-Admin-Template-02-01-dark](https://github.com/user-attachments/assets/41cda760-871e-40d4-8f6e-3d52e2f8a048)
+![Quasar-Admin-Template-02-04](https://github.com/user-attachments/assets/b6b7c072-9bb2-4941-bdd5-6e0c3ff238d7)
+![Quasar-Admin-Template-02-04-dark](https://github.com/user-attachments/assets/c58d48e9-4e4f-4c95-b493-abcc0c9bb8c1)
+![Quasar-Admin-Template-02-03](https://github.com/user-attachments/assets/6e052ea6-1761-4378-9abf-12a5dc111949)
+![Quasar-Admin-Template-02-03-dark](https://github.com/user-attachments/assets/99fd9fb0-bb34-44b0-938d-af209454c738)
